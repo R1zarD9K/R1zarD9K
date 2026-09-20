@@ -11,5 +11,5 @@ Let's Connected! [Linkedin](https://www.linkedin.com/in/rahmat-pratami-027709247
 </p>
 
 ---
-
+**This is why my commit in github is empty the snake is eating the green dots**
 <img src="https://raw.githubusercontent.com/mostlime12195/mostlime12195/output/snake.svg" alt="Snake animation" />
