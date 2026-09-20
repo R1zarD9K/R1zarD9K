@@ -9,3 +9,7 @@ Let's Connected! [Linkedin](https://www.linkedin.com/in/rahmat-pratami-027709247
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=R1zarD9K&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=R1zarD9K&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+---
+
+<img src="https://raw.githubusercontent.com/mostlime12195/mostlime12195/output/snake.svg" alt="Snake animation" />
